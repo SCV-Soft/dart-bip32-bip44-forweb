@@ -1,3 +1,7 @@
+## Note:
+
+This is only a forked package from dart_bip32_bip44 with changes thatmakes it work normally with Dart projects, applications or packages. and not only for Flutter's.
+
 # BIP32-BIP44
 
 [![pub package](https://img.shields.io/pub/v/dart_bip32_bip44.svg)](https://pub.dartlang.org/packages/dart_bip32_bip44)
